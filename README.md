@@ -1,7 +1,6 @@
 # Ubuntu | OpenVPN Kurulumu
 
 
-![openvpn-logo](https://github.com/user-attachments/assets/7e6785c1-aca8-439a-a502-ef7001ccd0c3)
 
 OpenVPN, tam özellikli bir SSL VPN'dir (sanal özel ağ). SSL/TLS protokolünü kullanarak OSI katman 2 veya 3 güvenli ağ uzantısını uygular. Açık kaynaklı bir yazılımdır ve GNU GPL altında dağıtılmaktadır. Bir VPN, havalimanındaki veya oteldeki wifi ağı gibi güvenli olmayan bir genel ağa güvenli bir şekilde bağlanmanıza olanak tanır. VPN, kurumsal veya kurumsal veya ev sunucusu kaynaklarınıza erişmek için de gereklidir. Coğrafi olarak engellenen siteyi atlayabilir ve çevrimiçi gizliliğinizi veya güvenliğinizi artırabilirsiniz. 
 
